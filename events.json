@@ -1,0 +1,23 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "url": "https://github.com/octocat/Hello-World",
+    "description": "My first repo",
+    "starred_at": "2024-01-15T12:34:56Z",
+    "language": "JavaScript"
+  },
+  {
+    "name": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "Documentation and guides for GitHub",
+    "starred_at": "2024-02-02T09:00:00Z",
+    "language": "Markdown"
+  },
+  {
+    "name": "octo-org/octo-repo",
+    "url": "https://github.com/octo-org/octo-repo",
+    "description": "Example organization repository",
+    "starred_at": "2024-03-21T18:20:00Z",
+    "language": "Python"
+  }
+]
