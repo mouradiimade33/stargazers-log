@@ -1,3 +1,15 @@
+// Add sticky header scroll behavior
+window.addEventListener('scroll', () => {
+  const header = document.querySelector('.sticky-header');
+  if (!header) return;
+  
+  if (window.scrollY > 10) {
+    header.classList.add('scroll-shadow');
+  } else {
+    header.classList.remove('scroll-shadow');
+  }
+});
+
 // Fetch events.json and render a simple starred repositories list.
 // Place this file next to events.json or adjust the path as needed.
 
